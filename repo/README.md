@@ -1,6 +1,6 @@
 # Countability in Old English: Corpus Extraction and Analysis Pipeline
 
-Code accompanying the MA thesis *[Thesis Title]* (Poppy, [Year]),
+Code accompanying the MA thesis *[A Computational Study of Nominal Classes in Early English]* (Shaghayegh Moosavi, [2026]),
 Saarland University, supervised by Prof. Annemarie Verkerk and
 Dr. Kurt Erbach.
 
@@ -86,7 +86,7 @@ the YCOE source files.
 
 If you use this code, please cite the accompanying thesis:
 
-> [Poppy]. ([Year]). *[Thesis title]*. MA thesis, Saarland University.
+> [Shaghayegh Moosavi]. ([2026]). *[A Computational Study of Nominal Classes in Early English]*. MA thesis, Saarland University.
 
 ## License
 
